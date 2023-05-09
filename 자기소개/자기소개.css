@@ -1,0 +1,107 @@
+body {
+    margin: 0px;
+}
+
+header {
+    background-color: aliceblue;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header td {
+    padding: 20px 50px;
+    font-size: 12px;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    margin: 20px 0px;
+}
+
+#youngchul {
+    display: block;
+    margin: 40px auto 32px;
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#icon {
+    margin-top: 15px;
+    text-align: center;
+}
+
+#icon img {
+    height: 20px;
+    width: auto;
+    margin: 0px 4px;
+}
+
+.exercise {
+    font-size: 12px;
+    margin: 8px 0px 21px;
+    text-align: center;
+    color: gray;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: 800;
+    text-align: center;
+    margin: 20px 0px;
+}
+
+#three {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center ;
+    margin: 40px auto 0px;
+}
+
+.thing img {
+    margin: auto;
+    width: 128px;
+    height: auto;
+}
+
+.thing p {
+    margin-top: 16px;
+    font-size: 12px;
+    font-weight: 200;
+}
+
+.chara {
+    margin: 20px 0px;
+}
+
+.chara td {
+    width: 150px;
+}
+
+.chara span {
+    margin: auto;
+    font-size: 32px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.chara ul {
+    font-size: 12px;
+
+}
+
+.chara p {
+    color: black;
+    font-size: 12px;
+    text-align: center;
+
+}
